@@ -1,0 +1,150 @@
+* {
+  Font-family: Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+
+}
+
+header {
+  background-color: #ff8523;
+  padding: 20px 5px 30px 5px;
+}
+.main_navigation > a{
+  border-radius: 5px;
+  border: 1px solid #eee;
+  padding: 5px 20px;
+  text-decoration: none;
+  font weight: 900;
+  color: white;
+
+
+}
+
+p > a {
+  color: #1fabe5
+}
+
+#logo {
+  padding-bottom: 10px;
+}
+
+body {
+  border: 1px solid #ffd24a;
+  border-radius: 3px;
+  padding: 15px;
+  margin-top: 5px;
+  margin-left: 60px;
+  margin-right: 60px;
+  margin bottom: 10px;
+  margin-color: #dddddd;
+}
+
+h2, h3 {
+  color: #1fabe5;
+}
+
+
+
+ul {
+  font-weight: bold;
+  padding-bottom: 50px;
+  border-bottom: 5px solid #eee;
+  padding-bottom: 30px;
+
+}
+
+thead {
+  background-color:#1fabe5;
+  color: white;
+  text-align: left;
+
+}
+
+table, th, td {
+  border:1px solid #1fabe5;
+  border-collapse: collapse;
+
+}
+
+td {
+  padding: 10px;
+}
+
+td > img {
+  height:80px;
+  width: 80px;
+}
+
+table {
+  border-Top: 5px solid #eee;
+  padding-top: 30px;
+}
+form {
+  background-color: #eee;
+  border-radius: 5px;
+  padding: 20px;
+
+}
+
+.name {
+  background-color: #ff8523;
+  border-radius: 5px;
+  padding: 25px 10px;
+  color: white;
+  font-weight: bold;
+}
+
+.name > label {
+  padding-left: 15px;
+}
+.name > input {
+  width: 200px;
+  height: 35px;
+}
+
+.city_container {
+  padding: 25px 0;
+  font-weight: bold;
+}
+
+div > label {
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+
+textarea {
+  border: .5px solid #1fabe5;
+  width: 750px;
+}
+
+.submit_container > input {
+  background-color: #1fabe5;
+  border-radius: 5px;
+  color: white;
+  text-transform: uppercase;
+  border-color: #1fabe5;
+  padding: 12px 20px;
+  margin-top: 30px;
+
+}
+
+form {
+  border-bottom: 5px solid #eee;
+  padding-bottom: 30px;
+}
+
+
+
+/*
+font info:
+    family - Helvetica, Arial, sans-serif
+    line-height - 1.6
+
+
+colors:
+    light gray - #eee
+    gray - #dddddd
+    yellow - #ffd24a
+    orange - #ff8523
+    blue - #1fabe5
+    dark blue - #046c97
+*/
